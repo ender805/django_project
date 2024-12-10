@@ -1,1 +1,1 @@
-web: gunicorn buffet.wsgi
+web: gunicorn django_project.wsgi
